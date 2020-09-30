@@ -1,12 +1,7 @@
-<html lang="ru">
-  <head>
-    <meta charset="utf-8">
-  </head>
-
 <body>
 
-  <p>Преветствую на странице резюме</p>
-
+  <p>Преветствую на странице моего резюме</p>
+  <p>Hello  </p>
   <script>
     alert( 'Привет, мир!' );
   </script>
