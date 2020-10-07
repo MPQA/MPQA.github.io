@@ -1,10 +1,10 @@
 <body>
-  <p>Hello!</p>
-  <p>Преветствую на странице моего резюме</p>
+  <h1>Привет!</h1>
+  <p>Ты на странице моего резюме</p>
 
-  <script>
+  <!-- <script>
     alert( 'Привет, мир!' );
-  </script>
+  </script> -->
 
   <section class="skills">
           <h2>Мои Soft skills</h2>
